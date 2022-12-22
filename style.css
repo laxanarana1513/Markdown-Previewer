@@ -1,0 +1,30 @@
+.col-md-6{
+    width: 48%;
+    margin: 0px 13px;
+}
+
+@media(max-width: 1286px){
+    .col-md-6{
+        width: 50%;
+        margin: 0px;
+    }
+}
+
+.sub{
+    margin: 0px -12px;
+    background-color: #050575;
+}
+
+.sub-head{
+    margin-bottom: 0px;
+    padding: 11px;
+    font-family: 'Balsamiq Sans', cursive;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: white;
+}
+
+#editor{
+    margin: 9px 0px;
+}
